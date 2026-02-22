@@ -6,7 +6,9 @@ I hold a Bachelor’s degree from Graphic Era University, Dehradun, and I’m cu
 Over the years, I’ve expanded into multiple ventures, spanning Clothing, FMCG (Spices), Manufacturing, Infrastructure Projects, Digital Banking, and Technology Services. As the founder of CLEVERLAYS (a premium and trendy clothing brand) and the driving force behind the upcoming Avatara Group Private Limited., my vision is to build a trusted, diversified business group from Bihar with a global outlook.
 
 🔹 Core Strengths: Business Strategy | Entrepreneurship | Brand Building | Operations Management | Leadership
+
 🔹 Tech Skills: Java, C++, Python, Data Structures, Software Engineering (leveraged in digital transformation & fintech solutions)
+
 🔹 Interests: Cybersecurity | Artificial Intelligence | Data Analytics | Infrastructure Development | Digital Finance
 
 I believe in innovation, consistency, and value creation - building businesses that scale and make a positive impact on people and communities.
