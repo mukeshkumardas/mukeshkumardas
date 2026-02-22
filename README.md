@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi, My Name is Mukesh Kumar and I'm A Graduate in Computer Applications at Graphic Era University Dehradun, India. I have a Passion for Solving Complex Problems Using Programming and Software Engineering.<br><br>I've had the opportunity to gain hands-on experience in various technical areas, including C, C++, Java, HTML & CSS, JavaScript, Python, Data Structures, Algorithms, Operating Systems, Database Management Systems, and Computer Networks, Software Project Management, Android Programming<br><br>An Innovative Thinker, Initiative Taker, Active Learner and Multidimensional Professional with Exceptional Logical and Analytical Skills. Have Keen Interest in Cyber Security, Data Analytics and Artificial Intelligence<br><br>
+Hi, I’m Mukesh Kumar - an entrepreneur passionate about building diverse and impactful businesses.
+
+I hold a Bachelor’s degree from Graphic Era University, Dehradun, and I’m currently pursuing my Master’s degree at Patliputra University, Patna. My journey combines a strong academic foundation with hands-on business experience.
+
+Over the years, I’ve expanded into multiple ventures, spanning Clothing, FMCG (Spices), Manufacturing, Infrastructure Projects, Digital Banking, and Technology Services. As the founder of CLEVERLAYS (a premium and trendy clothing brand) and the driving force behind the upcoming Avatara Group Private Limited., my vision is to build a trusted, diversified business group from Bihar with a global outlook.
+
+🔹 Core Strengths: Business Strategy | Entrepreneurship | Brand Building | Operations Management | Leadership
+🔹 Tech Skills: Java, C++, Python, Data Structures, Software Engineering (leveraged in digital transformation & fintech solutions)
+🔹 Interests: Cybersecurity | Artificial Intelligence | Data Analytics | Infrastructure Development | Digital Finance
+
+I believe in innovation, consistency, and value creation - building businesses that scale and make a positive impact on people and communities.
+
+📩 Open to entrepreneurial collaborations, partnerships, and business opportunities. 
+share2mukeshkumar@gmail.com<br><br>
 
 
 ## 🌐 Socials:
